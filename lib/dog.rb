@@ -20,5 +20,6 @@ class Dog
   def self.print_all
     @@all.map{|dog| dog.name
   end
+  end
   
 end
